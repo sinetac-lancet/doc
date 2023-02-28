@@ -1,0 +1,3 @@
+1，安装python-3.5.4-amd64.exe
+2，将python-Dlls目录下的文件复制到python安装目下的DLLs目中
+3，参考robotcontrol.py样例
